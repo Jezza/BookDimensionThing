@@ -1,0 +1,13 @@
+[
+{
+  "modid": "bookdimensionthing",
+  "name": "Book Dimension Thing",
+  "description": "Um, yeah. Thing.",
+  "version": "0.00.01",
+  "mcversion": "1.7.10",
+  "authors": [ "Jezzadabomb338" ],
+  "dependencies": [
+     "MinecraftForge"
+  ]
+}
+]
